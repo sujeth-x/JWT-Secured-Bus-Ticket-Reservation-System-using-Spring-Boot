@@ -1,1 +1,1 @@
-🔐 Developed a backend-focused bus ticket booking system using Spring Boot and JWT for secure authentication and authorization. Implemented REST APIs with role-based access, handled booking workflows, and integrated MySQL to ensure reliable data persistence and optimized query performance 🚀💻
+
