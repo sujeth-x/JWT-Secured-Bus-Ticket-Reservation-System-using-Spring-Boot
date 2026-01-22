@@ -1,0 +1,1 @@
+🔐 Built a secure Bus Ticket Reservation System using Spring Boot, Spring Security, and JWT. Developed REST APIs for user authentication, bus search, and booking with role-based access, and integrated MySQL for reliable data storage and optimized performance 🚍💻
